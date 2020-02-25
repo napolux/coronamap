@@ -7,6 +7,10 @@ h3,p {
   margin: 0;
 }
 
+h3 {
+  font-size: 16px;
+}
+
 p {
   font-size: 14px;
 }
