@@ -3,13 +3,25 @@
   height: 100vh;
 }
 
+h3,p {
+  margin: 0;
+}
+
+p {
+  font-size: 14px;
+}
+
+.mapContainer {
+  height: 100%;
+}
 .ideaContainer {
-  position: absolute;
-  z-index: 1000;
-  bottom: 0;
   background-color: #333333;
   color: white;
-  padding: 10px;
+  padding: 15px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  z-index: 1000;
 }
 
 .ideaContainer a {
