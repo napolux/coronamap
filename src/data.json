@@ -14,7 +14,7 @@
   {
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
-    "cases": 30,
+    "cases": 47,
     "deads": 1
   },
   {
@@ -44,7 +44,7 @@
   {
     "region": "Liguria",
     "coords": { "lat": 44.4222, "lng": 8.9052 },
-    "cases": 2,
+    "cases": 11,
     "deads": 0
   },
   {
