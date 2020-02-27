@@ -3,6 +3,7 @@
     "region": "Lombardia",
     "coords": { "lat": 45.4773, "lng": 9.1815 },
     "cases": 305,
+    "recoveries": 37,
     "deads": 9
   },
   {
@@ -34,6 +35,7 @@
     "region": "Sicilia",
     "coords": { "lat": 38.1121, "lng": 13.3366 },
     "cases": 3,
+    "recoveries":2,
     "deads": 0
   },
   {
@@ -69,12 +71,6 @@
   {
     "region": "Abruzzo",
     "coords": { "lat": 42.366, "lng":  13.3944 },
-    "cases": 1,
-    "deads": 0
-  },
-  {
-    "region": "Puglia",
-    "coords": { "lat": 41.1187, "lng": 16.852 },
     "cases": 1,
     "deads": 0
   }
