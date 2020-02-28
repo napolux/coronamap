@@ -4,7 +4,7 @@
     "coords": { "lat": 45.4773, "lng": 9.1815 },
     "cases": 531,
     "recoveries": 40,
-    "deads": 18
+    "deads": 17
   },
   {
     "region": "Veneto",
@@ -16,7 +16,7 @@
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
     "cases": 145,
-    "deads": 1
+    "deads": 2
   },
   {
     "region": "Piemonte",
@@ -42,6 +42,7 @@
     "region": "Toscana",
     "coords": { "lat": 43.7874, "lng": 11.2499 },
     "cases": 8,
+    "recoveries": 1,
     "deads": 0
   },
   {
