@@ -4,7 +4,7 @@
     "coords": { "lat": 45.4773, "lng": 9.1815 },
     "cases": 531,
     "recoveries": 40,
-    "deads": 17
+    "deads": 18
   },
   {
     "region": "Veneto",
@@ -15,13 +15,13 @@
   {
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
-    "cases": 97,
+    "cases": 145,
     "deads": 1
   },
   {
     "region": "Piemonte",
     "coords": { "lat": 45.05, "lng": 7.666667 },
-    "cases": 2,
+    "cases": 11,
     "deads": 0
   },
   {
@@ -41,7 +41,7 @@
   {
     "region": "Toscana",
     "coords": { "lat": 43.7874, "lng": 11.2499 },
-    "cases": 2,
+    "cases": 8,
     "deads": 0
   },
   {
@@ -59,13 +59,13 @@
   {
     "region": "Marche",
     "coords": { "lat": 43.5991, "lng": 13.511 },
-    "cases": 3,
+    "cases": 6,
     "deads": 0
   },
   {
     "region": "Campania",
     "coords": { "lat": 40.863, "lng": 14.2767 },
-    "cases": 3,
+    "cases": 4,
     "deads": 0
   },
   {
@@ -77,6 +77,12 @@
   {
     "region": "Puglia",
     "coords": { "lat": 41.1187, "lng": 16.852 },
+    "cases": 3,
+    "deads": 0
+  },
+  {
+    "region": "Calabria",
+    "coords": { "lat": 38.8918, "lng": 16.5995 },
     "cases": 1,
     "deads": 0
   }
