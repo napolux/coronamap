@@ -2,14 +2,14 @@
   {
     "region": "Lombardia",
     "coords": { "lat": 45.4773, "lng": 9.1815 },
-    "cases": 403,
+    "cases": 531,
     "recoveries": 40,
-    "deads": 14
+    "deads": 17
   },
   {
     "region": "Veneto",
     "coords": { "lat": 45.4398, "lng": 12.3319 },
-    "cases": 11,
+    "cases": 151,
     "deads": 2
   },
   {
