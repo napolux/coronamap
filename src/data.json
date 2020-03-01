@@ -2,26 +2,26 @@
   {
     "region": "Lombardia",
     "coords": { "lat": 45.4773, "lng": 9.1815 },
-    "cases": 552,
-    "recoveries": 40,
-    "deads": 23
+    "cases": 887,
+    "recoveries": 73,
+    "deads": 24
   },
   {
     "region": "Veneto",
     "coords": { "lat": 45.4398, "lng": 12.3319 },
-    "cases": 189,
+    "cases": 261,
     "deads": 2
   },
   {
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
-    "cases": 213,
-    "deads": 4
+    "cases": 277,
+    "deads": 8
   },
   {
     "region": "Piemonte",
     "coords": { "lat": 45.05, "lng": 7.666667 },
-    "cases": 11,
+    "cases": 49,
     "deads": 0
   },
   {
@@ -34,21 +34,21 @@
   {
     "region": "Sicilia",
     "coords": { "lat": 38.1121, "lng": 13.3366 },
-    "cases": 2,
+    "cases": 7,
     "recoveries":2,
     "deads": 0
   },
   {
     "region": "Toscana",
     "coords": { "lat": 43.7874, "lng": 11.2499 },
-    "cases": 10,
+    "cases": 12,
     "recoveries": 1,
     "deads": 0
   },
   {
     "region": "Liguria",
     "coords": { "lat": 44.4222, "lng": 8.9052 },
-    "cases": 38,
+    "cases": 21,
     "recoveries":4,
     "deads": 0
   },
@@ -61,19 +61,19 @@
   {
     "region": "Marche",
     "coords": { "lat": 43.5991, "lng": 13.511 },
-    "cases": 11,
+    "cases": 25,
     "deads": 0
   },
   {
     "region": "Campania",
     "coords": { "lat": 40.863, "lng": 14.2767 },
-    "cases": 13,
+    "cases": 17,
     "deads": 0
   },
   {
     "region": "Abruzzo",
     "coords": { "lat": 42.366, "lng":  13.3944 },
-    "cases": 2,
+    "cases": 5,
     "deads": 0
   },
   {
@@ -86,6 +86,18 @@
     "region": "Calabria",
     "coords": { "lat": 38.8918, "lng": 16.5995 },
     "cases": 1,
+    "deads": 0
+  },
+  {
+    "region": "Friuli V. G.",
+    "coords": { "lat": 45.6362, "lng":  13.8042 },
+    "cases": 6,
+    "deads": 0
+  },
+  {
+    "region": "Umbria",
+    "coords": { "lat": 43.0977, "lng":  12.3838 },
+    "cases": 2,
     "deads": 0
   }
 ]

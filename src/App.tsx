@@ -16,7 +16,7 @@ export default function App() {
   return (
     <>
       <div className="ideaContainer">
-        <h3>COVID19 Italia: 29 febbraio 2020, ore 18.00</h3>
+        <h3>COVID19 Italia: 1 Marzo 2020, ore 18.00</h3>
         <p>Un'idea di <a rel="noopener noreferrer" href="https://twitter.com/napolux" target="_blank">Francesco Napoletano</a></p>
         <p>Sorgente dati: <a rel="noopener noreferrer" target="_blank" href="http://www.salute.gov.it/nuovocoronavirus">salute.gov.it</a></p>
       </div>
