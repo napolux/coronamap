@@ -2,20 +2,20 @@
   {
     "region": "Lombardia",
     "coords": { "lat": 45.4773, "lng": 9.1815 },
-    "cases": 887,
+    "cases": 984,
     "recoveries": 73,
     "deads": 24
   },
   {
     "region": "Veneto",
     "coords": { "lat": 45.4398, "lng": 12.3319 },
-    "cases": 261,
+    "cases": 263,
     "deads": 2
   },
   {
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
-    "cases": 277,
+    "cases": 285,
     "deads": 8
   },
   {
@@ -27,28 +27,28 @@
   {
     "region": "Lazio",
     "coords": { "lat": 41.9109, "lng": 12.4818 },
-    "cases": 3,
+    "cases": 6,
     "recoveries": 3,
     "deads": 0
   },
   {
     "region": "Sicilia",
     "coords": { "lat": 38.1121, "lng": 13.3366 },
-    "cases": 7,
+    "cases": 9,
     "recoveries":2,
     "deads": 0
   },
   {
     "region": "Toscana",
     "coords": { "lat": 43.7874, "lng": 11.2499 },
-    "cases": 12,
+    "cases": 13,
     "recoveries": 1,
     "deads": 0
   },
   {
     "region": "Liguria",
     "coords": { "lat": 44.4222, "lng": 8.9052 },
-    "cases": 21,
+    "cases": 25,
     "recoveries":4,
     "deads": 0
   },
