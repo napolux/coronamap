@@ -2,76 +2,76 @@
   {
     "region": "Lombardia",
     "coords": { "lat": 45.4773, "lng": 9.1815 },
-    "cases": 13272,
-    "recoveries": 2011,
-    "deads": 1218
+    "cases": 14649,
+    "recoveries": 2368,
+    "deads": 1420
   },
   {
     "region": "Emilia Romagna",
     "coords": { "lat": 44.5075, "lng": 11.3514 },
-    "cases": 3093,
-    "deads": 284,
-    "recoveries": 68
+    "cases": 3522,
+    "deads": 346,
+    "recoveries": 88
   },
   {
     "region": "Veneto",
     "coords": { "lat": 45.4398, "lng": 12.3319 },
-    "cases": 2172,
-    "deads": 63,
-    "recoveries": 120
+    "cases": 2473,
+    "deads": 69,
+    "recoveries": 130
   },
   {
     "region": "Marche",
     "coords": { "lat": 43.5991, "lng": 13.511 },
-    "cases": 1133,
-    "deads": 46
+    "cases": 1242,
+    "deads": 57
   },
   {
     "region": "Piemonte",
     "coords": { "lat": 45.05, "lng": 7.666667 },
-    "cases": 1111,
-    "deads": 81
+    "cases": 1516,
+    "deads": 111
   },
   {
     "region": "Toscana",
     "coords": { "lat": 43.7874, "lng": 11.2499 },
-    "cases": 781,
-    "recoveries": 10,
-    "deads": 8
+    "cases": 866,
+    "recoveries": 11,
+    "deads": 14
   },
   {
     "region": "Liguria",
     "coords": { "lat": 44.4222, "lng": 8.9052 },
-    "cases": 559,
-    "recoveries": 33,
-    "deads": 33
+    "cases": 667,
+    "recoveries": 42,
+    "deads": 50
   },
   {
     "region": "Lazio",
     "coords": { "lat": 41.9109, "lng": 12.4818 },
-    "cases": 436,
-    "recoveries": 24,
-    "deads": 16
+    "cases": 523,
+    "recoveries": 32,
+    "deads": 19
   },
   {
     "region": "Campania",
     "coords": { "lat": 40.863, "lng": 14.2767 },
-    "cases": 333,
+    "cases": 400,
     "recoveries":28,
     "deads": 9
   },
   {
     "region": "Trentino Alto-Adige",
     "coords": { "lat": 46.0793, "lng": 11.1302 },
-    "cases": 582,
-    "deads": 11,
+    "cases": 619,
+    "deads": 12,
     "recoveries":5
   },
   {
     "region": "Sicilia",
     "coords": { "lat": 38.1121, "lng": 13.3366 },
-    "cases": 188,
-    "recoveries": 7,
+    "cases": 213,
+    "recoveries": 8,
     "deads": 2
   },
   {
@@ -84,53 +84,54 @@
   {
     "region": "Friuli V. G.",
     "coords": { "lat": 45.6362, "lng": 13.8042 },
-    "cases": 347,
-    "deads": 14,
-    "recoveries":17
+    "cases": 386,
+    "deads": 22,
+    "recoveries":18
   },
   {
     "region": "Umbria",
     "coords": { "lat": 43.0977, "lng": 12.3838 },
-    "cases": 143,
+    "cases": 164,
     "deads": 1,
-    "recoveries":3
+    "recoveries":4
   },
   {
     "region": "Abruzzo",
     "coords": { "lat": 42.366, "lng": 13.3944 },
-    "cases": 137,
-    "deads": 3,
-    "recoveries":6
+    "cases": 176,
+    "deads": 4,
+    "recoveries":7
   },
   {
     "region": "Calabria",
     "coords": { "lat": 38.8918, "lng": 16.5995 },
-    "cases": 68,
+    "cases": 89,
     "deads": 1,
     "recoveries": 1
   },
   {
     "region": "Sardegna",
     "coords": { "lat": 39.2236, "lng": 9.1181 },
-    "cases": 77,
+    "cases": 107,
     "deads": 2
   },
   {
     "region": "Valle d'Aosta",
     "coords": { "lat": 	45.7383, "lng": 7.3177 },
-    "cases": 57,
-    "deads": 1
+    "cases": 105,
+    "deads": 2
   },
   {
     "region": "Molise",
     "coords": { "lat": 41.561, "lng": 14.6684 },
-    "cases": 17,
-    "deads": 0
+    "cases": 21,
+    "deads": 1,
+    "recoveries":5
   },
   {
     "region": "Basilicata",
     "coords": { "lat": 40.6453, "lng": 15.8094 },
-    "cases": 11,
+    "cases": 12,
     "deads": 0
   }
   ]
